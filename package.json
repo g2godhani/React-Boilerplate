@@ -54,5 +54,14 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-hot-loader": "^4.13.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g2godhani/React-Boilerplate.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/g2godhani/React-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/g2godhani/React-Boilerplate#readme"
 }
